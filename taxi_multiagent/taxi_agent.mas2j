@@ -1,0 +1,5 @@
+MAS taxi_agent {
+    environment: TaxiEnv(gui) // use "nogui" as parameter to not show the GUI
+    agents: taxi #2;
+
+}

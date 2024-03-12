@@ -20,7 +20,8 @@
 
 Beliefs 
 
-![image](https://github.com/MagdaToma8/Taxi-Multiagent-System/assets/128919446/5a566517-756b-4342-93c5-f9d72cd4b871)
+![image](https://github.com/MagdaToma8/Taxi-Multiagent-System/assets/128919446/97a913b5-7622-470b-aee6-3f1749782d72)
+
 
 • at(O,C,R): Αυτό σημαίνει ότι το αντικείμενο Ο βρίσκεται στην στήλη C και γραμμή R. To O παίρνει τιμές {taxi, client} ενώ τα C και R παίρνουν τιμές στο διάστημα [0, 4].
 
@@ -55,7 +56,8 @@ Beliefs
 
 Ενέργειες 
 
-![image](https://github.com/MagdaToma8/Taxi-Multiagent-System/assets/128919446/e76e968c-e7e3-4113-90ae-4513a8c75bf2) 
+![image](https://github.com/MagdaToma8/Taxi-Multiagent-System/assets/128919446/c85fcffa-613d-4a7d-96d4-78f823527175)
+
 
 • checkForClient: O πράκτορας ελέγχει αν υπάρχει κάποιος πελάτης στο grid. Η ενέργεια αυτή δεν επιφέρει κάποια αλλαγή στο περιβάλλον. Είναι βοηθητική και ο πράκτορας θα κάνει αυτή την ενέργεια μέχρι να εμφανιστεί κάποιος πελάτης.
 
